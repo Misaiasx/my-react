@@ -34,7 +34,7 @@ function addNewOrder() {
         <InputLabel>Nome do Cliente</InputLabel>
         <Input placeholder="name-cliente"></Input>
       
-        <Button onClick={}>Novo Pedido</Button>
+        <Button onClick={addNewOrder}>Novo Pedido</Button>
       </ContainerItens>
     </Container>
   );
